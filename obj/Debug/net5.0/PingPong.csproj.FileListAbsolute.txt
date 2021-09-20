@@ -1,0 +1,16 @@
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\obj\Debug\net5.0\PingPong.csproj.AssemblyReference.cache
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\obj\Debug\net5.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\obj\Debug\net5.0\PingPong.AssemblyInfoInputs.cache
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\obj\Debug\net5.0\PingPong.AssemblyInfo.cs
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\obj\Debug\net5.0\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\bin\Debug\net5.0\PingPong.exe
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\bin\Debug\net5.0\PingPong.deps.json
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\bin\Debug\net5.0\PingPong.runtimeconfig.json
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\bin\Debug\net5.0\PingPong.runtimeconfig.dev.json
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\bin\Debug\net5.0\PingPong.dll
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\bin\Debug\net5.0\ref\PingPong.dll
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\bin\Debug\net5.0\PingPong.pdb
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\obj\Debug\net5.0\PingPong.dll
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\obj\Debug\net5.0\ref\PingPong.dll
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\obj\Debug\net5.0\PingPong.pdb
+C:\Users\paige\OneDrive\Desktop\Ping-Pong\obj\Debug\net5.0\PingPong.genruntimeconfig.cache
